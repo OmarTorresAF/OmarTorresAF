@@ -1,10 +1,10 @@
 # Hola, soy José Omar Torres.
 
-¡Bienvenido/a a mi perfil! 👋 Soy un apasionado desarrollador front-end con experiencia en la creación de aplicaciones web modernas y responsivas.
+¡Bienvenido/a a mi perfil! 👋 Soy un apasionado desarrollador front-end y con mucha curiosidad por tecnologias afines a la experiencia del usuario me encanta la creación de aplicaciones web modernas y responsivas y aun mas cuando aprendo en el proceso.
 
 ## Sobre Mí 📖
 
-Soy un/a entusiasta del desarrollo web con un enfoque especial en la experiencia del usuario y el diseño limpio. Me encanta trabajar en proyectos desafiantes que me permitan explorar nuevas tecnologías y mejorar mis habilidades.
+Soy un desarrollador web que decidiio crear la experiencia del usuario en una prioridad. Me encanta trabajar en proyectos desafiantes que me permitan explorar nuevas tecnologías y mejorar mis habilidades.
 
 ### Experiencia Laboral 👨‍🔬
 
