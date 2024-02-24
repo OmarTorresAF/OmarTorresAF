@@ -30,6 +30,9 @@ Contact
 I would love to connect with you! You can find me on:
 
 [LinkedIn] https://www.linkedin.com/in/omar-torres-bb5823183/
+
 [GitHub] https://github.com/OmarTorresAF
+
 [Phone] Mexico: (867)144-26-49
+
 Feel free to contact me if you have any questions or if you're interested in collaborating on an exciting project!
